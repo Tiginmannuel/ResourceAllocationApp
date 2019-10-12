@@ -1,0 +1,26 @@
+D:\ResourceAllocation\ResourseAllocationApp\CommonLayer\bin\Debug\CommonLayer.dll
+D:\ResourceAllocation\ResourseAllocationApp\CommonLayer\bin\Debug\CommonLayer.pdb
+D:\ResourceAllocation\ResourseAllocationApp\CommonLayer\bin\Debug\Newtonsoft.Json.dll
+D:\ResourceAllocation\ResourseAllocationApp\CommonLayer\bin\Debug\Newtonsoft.Json.xml
+D:\ResourceAllocation\ResourseAllocationApp\CommonLayer\obj\Debug\ResourceAllocation.Common.csproj.CoreCompileInputs.cache
+D:\ResourceAllocation\ResourseAllocationApp\CommonLayer\obj\Debug\ResourceAllocation.Common.csproj.CopyComplete
+D:\ResourceAllocation\ResourseAllocationApp\CommonLayer\obj\Debug\CommonLayer.dll
+D:\ResourceAllocation\ResourseAllocationApp\CommonLayer\obj\Debug\CommonLayer.pdb
+D:\ResourceAllocation\ResourseAllocationApp\CommonLayer\obj\Debug\ResourceAllocation.Common.csprojAssemblyReference.cache
+D:\ResourceAllocation\ResourseAllocationApp\ResourceAllocation.Common\bin\Debug\CommonLayer.dll
+D:\ResourceAllocation\ResourseAllocationApp\ResourceAllocation.Common\bin\Debug\CommonLayer.pdb
+D:\ResourceAllocation\ResourseAllocationApp\ResourceAllocation.Common\bin\Debug\Newtonsoft.Json.dll
+D:\ResourceAllocation\ResourseAllocationApp\ResourceAllocation.Common\bin\Debug\Newtonsoft.Json.xml
+D:\ResourceAllocation\ResourseAllocationApp\ResourceAllocation.Common\obj\Debug\ResourceAllocation.Common.csproj.CoreCompileInputs.cache
+D:\ResourceAllocation\ResourseAllocationApp\ResourceAllocation.Common\obj\Debug\ResourceAllocation.Common.csproj.CopyComplete
+D:\ResourceAllocation\ResourseAllocationApp\ResourceAllocation.Common\obj\Debug\CommonLayer.dll
+D:\ResourceAllocation\ResourseAllocationApp\ResourceAllocation.Common\obj\Debug\CommonLayer.pdb
+D:\ResourceAllocation\ResourseAllocationApp\ResourceAllocation.Common\obj\Debug\ResourceAllocation.Common.csprojAssemblyReference.cache
+D:\ResourceAllocation App\ResourseAllocationApp\ResourceAllocation.Common\bin\Debug\CommonLayer.dll
+D:\ResourceAllocation App\ResourseAllocationApp\ResourceAllocation.Common\bin\Debug\CommonLayer.pdb
+D:\ResourceAllocation App\ResourseAllocationApp\ResourceAllocation.Common\bin\Debug\Newtonsoft.Json.xml
+D:\ResourceAllocation App\ResourseAllocationApp\ResourceAllocation.Common\obj\Debug\ResourceAllocation.Common.csprojAssemblyReference.cache
+D:\ResourceAllocation App\ResourseAllocationApp\ResourceAllocation.Common\obj\Debug\ResourceAllocation.Common.csproj.CoreCompileInputs.cache
+D:\ResourceAllocation App\ResourseAllocationApp\ResourceAllocation.Common\obj\Debug\ResourceAllocation.Common.csproj.CopyComplete
+D:\ResourceAllocation App\ResourseAllocationApp\ResourceAllocation.Common\obj\Debug\CommonLayer.dll
+D:\ResourceAllocation App\ResourseAllocationApp\ResourceAllocation.Common\obj\Debug\CommonLayer.pdb

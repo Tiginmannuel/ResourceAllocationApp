@@ -1,0 +1,71 @@
+C:\Users\Tigin\source\repos\ResourseAllocationApp\ResourseAllocationApp\bin\Debug\ResourseAllocationApp.exe.config
+C:\Users\Tigin\source\repos\ResourseAllocationApp\ResourseAllocationApp\bin\Debug\ResourseAllocationApp.exe
+C:\Users\Tigin\source\repos\ResourseAllocationApp\ResourseAllocationApp\bin\Debug\ResourseAllocationApp.pdb
+C:\Users\Tigin\source\repos\ResourseAllocationApp\ResourseAllocationApp\obj\Debug\ResourseAllocationApp.csprojAssemblyReference.cache
+C:\Users\Tigin\source\repos\ResourseAllocationApp\ResourseAllocationApp\obj\Debug\ResourseAllocationApp.Form1.resources
+C:\Users\Tigin\source\repos\ResourseAllocationApp\ResourseAllocationApp\obj\Debug\ResourseAllocationApp.Properties.Resources.resources
+C:\Users\Tigin\source\repos\ResourseAllocationApp\ResourseAllocationApp\obj\Debug\ResourseAllocationApp.csproj.GenerateResource.cache
+C:\Users\Tigin\source\repos\ResourseAllocationApp\ResourseAllocationApp\obj\Debug\ResourseAllocationApp.csproj.CoreCompileInputs.cache
+C:\Users\Tigin\source\repos\ResourseAllocationApp\ResourseAllocationApp\obj\Debug\ResourseAllocationApp.exe
+C:\Users\Tigin\source\repos\ResourseAllocationApp\ResourseAllocationApp\obj\Debug\ResourseAllocationApp.pdb
+C:\Users\Tigin\source\repos\ResourseAllocationApp\ResourseAllocationApp\bin\Debug\Business Layer.dll
+C:\Users\Tigin\source\repos\ResourseAllocationApp\ResourseAllocationApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tigin\source\repos\ResourseAllocationApp\ResourseAllocationApp\bin\Debug\Business Layer.pdb
+C:\Users\Tigin\source\repos\ResourseAllocationApp\ResourseAllocationApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tigin\source\repos\ResourseAllocationApp\ResourseAllocationApp\obj\Debug\ResourseAllocationApp.ResourceEntryForm.resources
+C:\Users\Tigin\source\repos\ResourseAllocationApp\ResourseAllocationApp\obj\Debug\ResourseAllocationApp.csproj.CopyComplete
+D:\ResourseAllocationApp\ResourseAllocationApp\ResourseAllocationApp\bin\Debug\ResourseAllocationApp.exe.config
+D:\ResourseAllocationApp\ResourseAllocationApp\ResourseAllocationApp\bin\Debug\ResourseAllocationApp.exe
+D:\ResourseAllocationApp\ResourseAllocationApp\ResourseAllocationApp\bin\Debug\ResourseAllocationApp.pdb
+D:\ResourseAllocationApp\ResourseAllocationApp\ResourseAllocationApp\bin\Debug\Business Layer.dll
+D:\ResourseAllocationApp\ResourseAllocationApp\ResourseAllocationApp\bin\Debug\Newtonsoft.Json.dll
+D:\ResourseAllocationApp\ResourseAllocationApp\ResourseAllocationApp\bin\Debug\Business Layer.pdb
+D:\ResourseAllocationApp\ResourseAllocationApp\ResourseAllocationApp\bin\Debug\Newtonsoft.Json.xml
+D:\ResourseAllocationApp\ResourseAllocationApp\ResourseAllocationApp\obj\Debug\ResourseAllocationApp.csprojAssemblyReference.cache
+D:\ResourseAllocationApp\ResourseAllocationApp\ResourseAllocationApp\obj\Debug\ResourseAllocationApp.ProjectEntryForm.resources
+D:\ResourseAllocationApp\ResourseAllocationApp\ResourseAllocationApp\obj\Debug\ResourseAllocationApp.ResourceEntryForm.resources
+D:\ResourseAllocationApp\ResourseAllocationApp\ResourseAllocationApp\obj\Debug\ResourseAllocationApp.Form1.resources
+D:\ResourseAllocationApp\ResourseAllocationApp\ResourseAllocationApp\obj\Debug\ResourseAllocationApp.Properties.Resources.resources
+D:\ResourseAllocationApp\ResourseAllocationApp\ResourseAllocationApp\obj\Debug\ResourseAllocationApp.csproj.GenerateResource.cache
+D:\ResourseAllocationApp\ResourseAllocationApp\ResourseAllocationApp\obj\Debug\ResourseAllocationApp.csproj.CoreCompileInputs.cache
+D:\ResourseAllocationApp\ResourseAllocationApp\ResourseAllocationApp\obj\Debug\ResourseAllocationApp.csproj.CopyComplete
+D:\ResourseAllocationApp\ResourseAllocationApp\ResourseAllocationApp\obj\Debug\ResourseAllocationApp.exe
+D:\ResourseAllocationApp\ResourseAllocationApp\ResourseAllocationApp\obj\Debug\ResourseAllocationApp.pdb
+D:\ResourceAllocation App\ResourseAllocationApp\ResourseAllocationApp\bin\Debug\ResourseAllocationApp.exe.config
+D:\ResourceAllocation App\ResourseAllocationApp\ResourseAllocationApp\bin\Debug\ResourseAllocationApp.exe
+D:\ResourceAllocation App\ResourseAllocationApp\ResourseAllocationApp\bin\Debug\ResourseAllocationApp.pdb
+D:\ResourceAllocation App\ResourseAllocationApp\ResourseAllocationApp\bin\Debug\Business Layer.dll
+D:\ResourceAllocation App\ResourseAllocationApp\ResourseAllocationApp\bin\Debug\Newtonsoft.Json.dll
+D:\ResourceAllocation App\ResourseAllocationApp\ResourseAllocationApp\bin\Debug\Business Layer.pdb
+D:\ResourceAllocation App\ResourseAllocationApp\ResourseAllocationApp\bin\Debug\Newtonsoft.Json.xml
+D:\ResourceAllocation App\ResourseAllocationApp\ResourseAllocationApp\obj\Debug\ResourseAllocationApp.csprojAssemblyReference.cache
+D:\ResourceAllocation App\ResourseAllocationApp\ResourseAllocationApp\obj\Debug\ResourseAllocationApp.ProjectEntryForm.resources
+D:\ResourceAllocation App\ResourseAllocationApp\ResourseAllocationApp\obj\Debug\ResourseAllocationApp.ResourceEntryForm.resources
+D:\ResourceAllocation App\ResourseAllocationApp\ResourseAllocationApp\obj\Debug\ResourseAllocationApp.Form1.resources
+D:\ResourceAllocation App\ResourseAllocationApp\ResourseAllocationApp\obj\Debug\ResourseAllocationApp.Properties.Resources.resources
+D:\ResourceAllocation App\ResourseAllocationApp\ResourseAllocationApp\obj\Debug\ResourseAllocationApp.csproj.GenerateResource.cache
+D:\ResourceAllocation App\ResourseAllocationApp\ResourseAllocationApp\obj\Debug\ResourseAllocationApp.csproj.CoreCompileInputs.cache
+D:\ResourceAllocation App\ResourseAllocationApp\ResourseAllocationApp\obj\Debug\ResourseAllocationApp.csproj.CopyComplete
+D:\ResourceAllocation App\ResourseAllocationApp\ResourseAllocationApp\obj\Debug\ResourseAllocationApp.exe
+D:\ResourceAllocation App\ResourseAllocationApp\ResourseAllocationApp\obj\Debug\ResourseAllocationApp.pdb
+D:\ResourceAllocation\ResourseAllocationApp\ResourseAllocationApp\bin\Debug\ResourseAllocationApp.exe.config
+D:\ResourceAllocation\ResourseAllocationApp\ResourseAllocationApp\bin\Debug\ResourseAllocationApp.exe
+D:\ResourceAllocation\ResourseAllocationApp\ResourseAllocationApp\bin\Debug\ResourseAllocationApp.pdb
+D:\ResourceAllocation\ResourseAllocationApp\ResourseAllocationApp\bin\Debug\Business Layer.dll
+D:\ResourceAllocation\ResourseAllocationApp\ResourseAllocationApp\bin\Debug\CommonLayer.dll
+D:\ResourceAllocation\ResourseAllocationApp\ResourseAllocationApp\bin\Debug\Newtonsoft.Json.dll
+D:\ResourceAllocation\ResourseAllocationApp\ResourseAllocationApp\bin\Debug\Business Layer.pdb
+D:\ResourceAllocation\ResourseAllocationApp\ResourseAllocationApp\bin\Debug\CommonLayer.pdb
+D:\ResourceAllocation\ResourseAllocationApp\ResourseAllocationApp\bin\Debug\Newtonsoft.Json.xml
+D:\ResourceAllocation\ResourseAllocationApp\ResourseAllocationApp\obj\Debug\ResourseAllocationApp.csprojAssemblyReference.cache
+D:\ResourceAllocation\ResourseAllocationApp\ResourseAllocationApp\obj\Debug\ResourseAllocationApp.ProjectEntryForm.resources
+D:\ResourceAllocation\ResourseAllocationApp\ResourseAllocationApp\obj\Debug\ResourseAllocationApp.ResourceEntryForm.resources
+D:\ResourceAllocation\ResourseAllocationApp\ResourseAllocationApp\obj\Debug\ResourseAllocationApp.Form1.resources
+D:\ResourceAllocation\ResourseAllocationApp\ResourseAllocationApp\obj\Debug\ResourseAllocationApp.Properties.Resources.resources
+D:\ResourceAllocation\ResourseAllocationApp\ResourseAllocationApp\obj\Debug\ResourseAllocationApp.csproj.GenerateResource.cache
+D:\ResourceAllocation\ResourseAllocationApp\ResourseAllocationApp\obj\Debug\ResourseAllocationApp.csproj.CoreCompileInputs.cache
+D:\ResourceAllocation\ResourseAllocationApp\ResourseAllocationApp\obj\Debug\ResourseAllocationApp.csproj.CopyComplete
+D:\ResourceAllocation\ResourseAllocationApp\ResourseAllocationApp\obj\Debug\ResourseAllocationApp.exe
+D:\ResourceAllocation\ResourseAllocationApp\ResourseAllocationApp\obj\Debug\ResourseAllocationApp.pdb
+D:\ResourceAllocation App\ResourseAllocationApp\ResourseAllocationApp\bin\Debug\CommonLayer.dll
+D:\ResourceAllocation App\ResourseAllocationApp\ResourseAllocationApp\bin\Debug\CommonLayer.pdb

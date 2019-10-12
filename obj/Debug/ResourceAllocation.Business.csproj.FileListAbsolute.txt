@@ -1,0 +1,2 @@
+D:\ResourceAllocation\ResourseAllocationApp\obj\Debug\ResourceAllocation.Business.csprojAssemblyReference.cache
+D:\ResourceAllocation\ResourseAllocationApp\obj\Debug\ResourceAllocation.Business.csproj.CoreCompileInputs.cache
